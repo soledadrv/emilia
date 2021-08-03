@@ -13,7 +13,7 @@ font-family: 'Work Sans', sans-serif; */
 
 body{
     font-family: 'Open Sans', sans-serif;
-    padding: 4px;
+    padding: 6px;
 }
 
 a{
@@ -22,4 +22,10 @@ a{
 
 li{
     list-style: none;
+}
+
+.titulo{
+    text-transform: uppercase;
+    font-size: 66px;
+    font-family: 'Raleway', sans-serif;
 }
